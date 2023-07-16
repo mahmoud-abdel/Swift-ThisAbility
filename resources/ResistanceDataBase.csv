@@ -1,0 +1,41 @@
+﻿Exercise,Equipment,PrimaryGroup,MS,Scoliosis,Parkinsons,Cerebral,BaselineReps,PerSideAdjustable,TimeChange
+Push-up,Body,Chest,1,1,1,1,10,0,0
+Barbell Bench Press,All,Chest,1,1,1,1,10,0,0
+Dumbell Bench Press,Dumbell,Chest,1,1,1,1,10,0,0
+Incline Barbell Press,All,Chest,0,1,1,1,10,0,0
+Incline Dumbell Press,Dumbell,Chest,1,1,1,1,10,0,0
+Barbell Overhead Press,All,Shoulders,1,0,1,1,10,0,0
+Dumbell Overhead Press,Dumbell,Shoulders,1,0,1,1,10,0,0
+Lateral Dumbell Raise,Dumbell,Shoulders,1,1,1,1,10,1,0
+Front Dumbell Raise,Dumbell,Shoulders,1,1,1,1,10,1,0
+Pike Push-up,Body,Shoulders,1,1,1,1,10,0,0
+Barbell Row,All,Back,1,1,1,1,10,0,0
+Dumbbell Row,Dumbell,Back,1,1,1,1,10,1,0
+Alternating Renegade Row,Dumbell,Back,1,1,1,1,10,1,0
+Straight Leg Deadlift,All,Back,1,0,1,1,10,0,0
+Bodyweight Squat,Body,Legs,1,1,1,1,10,0,0
+Bodyweight Lunge,Body,Legs,1,1,1,1,10,0,0
+Goblet Squat,Dumbell,Legs,1,1,0,0,10,0,0
+Barbell Back Squat,All,Legs,1,0,1,1,10,0,0
+Bulgarian Split Squat,Dumbell,Legs,1,1,1,1,10,0,0
+Bodyweight Squat Jumps,Body,Legs,0,1,0,0,8,0,0
+Plank Hold,Body,Core,1,1,1,1,90,0,1
+Russian Twists,Body,Core,1,0,1,1,15,1,0
+Side Plank Hold,Body,Core,1,1,1,1,30,1,1
+Dumbell Hammer Curl,Dumbell,Arms,1,1,1,1,10,1,0
+Dumbell Bicep Curl,Dumbell,Arms,1,1,1,1,10,1,0
+Barbell Bicep Curl,All,Arms,1,1,1,1,10,0,0
+Dumbell SkullCrusher,Dumbell,Arms,1,1,1,1,10,0,0
+Single Leg Calf Raise,Body,Legs,0,1,0,0,10,1,0
+Weighted Calf Raise,Dumbell,Legs,1,1,1,1,10,0,0
+Bosu Ball Bodyweight Squat,All,Legs,0,1,0,1,10,0,0
+Wall Sit Hold,Body,Legs,1,1,1,1,60,0,1
+Tibialis Raise,Body,Legs,1,1,1,1,10,0,0
+Box Step-ups,Body,Legs,1,1,1,0,8,1,0
+Dumbbell Hip Thrust,Dumbell,Legs,1,1,1,1,10,0,0
+Barbell Hip Thrust,All,Legs,1,1,1,1,10,0,0
+Supermans,Body,Back,1,1,1,1,10,0,0
+Dead bugs,Body,Core,1,0,1,1,10,1,0
+Plank Taps,Body,Shoulders,1,1,1,1,15,1,0
+Single Leg Dumbell RDL,Dumbell,Legs,0,0,0,0,8,1,0
+Tricep Dips (assisted),Body,Arms,1,1,1,1,10,0,0
